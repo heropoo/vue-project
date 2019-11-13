@@ -1,5 +1,7 @@
 # Vue Project
 
+[![Actions Status](https://github.com/heropoo/vue-project/workflows/Build/badge.svg)](https://github.com/heropoo/vue-project/actions)
+
 ## Project setup
 ```
 npm install
